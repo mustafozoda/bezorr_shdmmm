@@ -169,3 +169,86 @@
 
 // const str = 'Hello World';
 // console.log(str.at(1)); // Output: 'e'
+
+
+// Math.round(3.2); // returns 3
+// Math.round(3.7); // returns 4
+
+
+// Math.ceil(3.2); // returns 4
+// Math.ceil(3.7); // returns 4
+
+// Math.floor(3.2); // returns 3
+// Math.floor(3.7); // returns 3
+
+
+
+// Math.max(5, 10, 15); // returns 15
+// Math.max(-5, -10, -15); // returns -5
+
+
+
+// Math.min(5, 10, 15); // returns 5
+// Math.min(-5, -10, -15); // returns -15
+
+
+// const numbers = [5, 10, 15];
+// Math.max(...numbers); // returns 15
+
+// const moreNumbers = [-5, -10, -15];
+// Math.min(...moreNumbers); // returns -15
+
+
+
+// Math.max(5, 10, 15); // returns 15
+// Math.max(-5, -10, -15); // returns -5
+
+
+
+// Math.min(5, 10, 15); // returns 5
+// Math.min(-5, -10, -15); // returns -15
+
+
+
+// const numbers = [5, 10, 15];
+// Math.max(...numbers); // returns 15
+
+// const moreNumbers = [-5, -10, -15];
+// Math.min(...moreNumbers); // returns -15
+
+
+
+// Math.pow(base, exponent)
+
+
+
+// const result = Math.pow(2, 3);
+// console.log(result); // Output: 8
+
+
+// Math.sqrt(number)
+
+
+
+// const result = Math.sqrt(16);
+// console.log(result); // Output: 4
+
+
+
+// const num = -5;
+// const absNum = Math.abs(num); // absNum will equal 5
+
+
+
+// const min = 1;
+// const max = 10;
+// const randNum = Math.floor(Math.random() * (max - min + 1)) + min;
+
+
+// const num1 = 123;
+// const num2 = 'hello';
+// const num3 = NaN;
+
+// console.log(isNaN(num1)); // false
+// console.log(isNaN(num2)); // true
+// console.log(isNaN(num3)); // true
